@@ -48,7 +48,7 @@ void loop(){
     data[4] = ptmrState;
     radio.write(&data, sizeof(data));                     // указывая сколько байт массива мы хотим отправить. с проверкой их доставки: if( radio.write(&data, sizeof(data)) ){ приняты;}else{не приняты приёмником;}
 
-    //Serial.println(ptmrState);
-    //Serial.println(speed);
+    Serial.println(ptmrState);
+    Serial.println(speed);
     delay(100);
 }
