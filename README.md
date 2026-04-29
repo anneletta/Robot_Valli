@@ -1,7 +1,3 @@
-Here's the B2-level English translation of your text:
-
----
-
 🇬🇧 [English version](README.md)
 🇷🇺 [Russian version](README.ru.md)
 
