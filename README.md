@@ -38,6 +38,8 @@ The robot's body was designed and 3D printed:
 Below is our step-by-step work on the robot, including the problems we faced and how we solved them:
 
 ### 1. Motor Assembly
+![Uploading photo_2026-04-29_20-06-54.jpg…]()
+
 
 After assembling the motor and connecting it to the board, we discovered that the solder between the motors and wires was weak. As a result, the wires came off the motors.
 
