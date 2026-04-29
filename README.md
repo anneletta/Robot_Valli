@@ -1,4 +1,5 @@
-
+🇬🇧 [English version](README.md)
+🇷🇺 [Русская версия](README.ru.md)
 
 ![photo_2024-05-14_16-19-51](https://github.com/anneletta/Robot_Valli/assets/144317669/2c41621b-4c74-4718-9f6e-1c6a17d2538c)
 
