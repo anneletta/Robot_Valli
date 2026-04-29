@@ -73,4 +73,4 @@ We assumed that the remote's radio module was not detecting the motor's radio mo
 
 ---
 
-Let me know if you'd like me to adjust the tone (more formal / more casual) or fix anything else.
+
